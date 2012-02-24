@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AtomicReference.cs" />
     <Compile Include="ConcurrentQueue.cs" />
     <Compile Include="IShared.cs" />
     <Compile Include="Option.cs" />

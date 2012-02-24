@@ -52,6 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AtomicReferenceTests.cs" />
     <Compile Include="ConcurrentQueueTests.cs" />
     <Compile Include="OptionTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -2,6 +2,10 @@ using System;
 
 namespace C5.Concurrent
 {
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
     public interface IShared<T>
     {
         /// <summary>
@@ -11,12 +15,6 @@ namespace C5.Concurrent
         /// <param name="update"></param>
         /// <returns></returns>
         bool CompareAndSet(T expect, T update);
-
-        /// <summary>
-        /// Returns this reduction variable's current value.
-        /// </summary>
-        /// <returns></returns>
-        T Get();
 
         /// <summary>
         /// Set this reduction variable to the given value and return the previous value.
@@ -34,10 +32,12 @@ namespace C5.Concurrent
         T Reduce(T value, Action<T> action);
 
         /// <summary>
-        /// Set this reduction variable to the given value.
+        /// Gets or sets the value.
         /// </summary>
-        /// <param name="value"></param>
-        void Set(T value);
+        /// <value>
+        /// The value.
+        /// </value>
+        T Value { get; set; }
 
         /// <summary>
         /// Returns a string version of this reduction variable.
