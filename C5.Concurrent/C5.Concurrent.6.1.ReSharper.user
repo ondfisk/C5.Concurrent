@@ -1,0 +1,61 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="11727" fromTop="28" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="28" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="30" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="37" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="22" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="26" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="35" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="34" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="31" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="32" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="35" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="31" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="32" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="38" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9646" fromTop="32" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="8683" fromTop="32" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="8863" fromTop="29" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9015" fromTop="28" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9510" fromTop="32" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="10152" fromTop="40" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="10499" fromTop="35" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="10652" fromTop="34" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="11220" fromTop="38" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="11696" fromTop="40" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="6251" fromTop="20" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="6574" fromTop="27" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="4133" fromTop="20" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="9813" fromTop="18" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="769" fromTop="12" />
+      <File id="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB/f:ConcurrentQueue.cs" caret="6453" fromTop="35" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="spinWait" priority="31" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
