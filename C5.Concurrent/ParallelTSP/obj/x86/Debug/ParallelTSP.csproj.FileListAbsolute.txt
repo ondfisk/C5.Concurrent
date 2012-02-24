@@ -1,5 +1,0 @@
-C:\Users\Rasmus\Dropbox\ITU\C5 Project\C5.Concurrent\C5.Concurrent\ParallelTSP\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Rasmus\Dropbox\ITU\C5 Project\C5.Concurrent\C5.Concurrent\ParallelTSP\bin\Debug\ParallelTSP.exe
-C:\Users\Rasmus\Dropbox\ITU\C5 Project\C5.Concurrent\C5.Concurrent\ParallelTSP\bin\Debug\ParallelTSP.pdb
-C:\Users\Rasmus\Dropbox\ITU\C5 Project\C5.Concurrent\C5.Concurrent\ParallelTSP\obj\x86\Debug\ParallelTSP.exe
-C:\Users\Rasmus\Dropbox\ITU\C5 Project\C5.Concurrent\C5.Concurrent\ParallelTSP\obj\x86\Debug\ParallelTSP.pdb
