@@ -1,6 +1,0 @@
-<Modules>
-  <Module PersistentId="AA63A0D1-1381-4DD6-822B-26FA7AEB80CB" ModuleId="C5.Concurrent" />
-  <Module PersistentId="8B8BF338-67EB-4AFF-AFB2-99D4A54C332F" ModuleId="ConsoleApplication1" />
-  <Module PersistentId="E54DF708-CBC9-405A-89EC-B2AEB7AC9D65" ModuleId="C5.Concurrent.Tests" />
-  <Module PersistentId="AF27F70D-5D4D-48AA-9610-2262300200D1" ModuleId="ParallelTSP" />
-</Modules>
