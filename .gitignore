@@ -8,10 +8,8 @@
 *ReSharper*
 packages/*
 Help/*
-C5.Concurrent/bin/*
-C5.Concurrent/obj/*
-C5.Concurrent.Tests/bin/*
-C5.Concurrent.Tests/obj/*
+bin/*
+obj/*
 
 # Include
 !/.nuget/*
