@@ -25,7 +25,7 @@ namespace C5.Concurrent
         {
         }
 
-        private T _value;
+        private volatile T _value;
 
         /// <summary>
         /// Gets or sets the value.
