@@ -6,10 +6,9 @@
 *.userprefs
 *.user
 *ReSharper*
-packages/*
-Help/*
-bin/*
-obj/*
+*/packages/*
+*/bin/*
+*/obj/*
 
 # Include
 !/.nuget/*
